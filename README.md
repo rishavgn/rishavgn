@@ -45,6 +45,6 @@ Hello! I'm Rishav Gandhi, a passionate software engineer with expertise in the M
 ![VisitorCount](https://profile-counter.glitch.me/{rishavgn}/count.svg) </div>
 
 ## Contact Me
-If you have any queries or collaboration opportunities, feel free to reach out to me via email at [rishav@example.com](mailto:rishav@example.com).
+If you have any queries or collaboration opportunities, feel free to reach out to me via email at [gn.rishav@gmail.com](mailto:gn.rishav@gmail.com).
 
 Looking forward to connecting with you!
