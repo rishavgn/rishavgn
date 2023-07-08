@@ -2,50 +2,47 @@
 
 ![Profile Banner](banner.jpg)
 
-## Introduction
+### 💫 About Me:
 Hello! I'm Rishav Gandhi, a passionate software engineer with expertise in the MERN stack, PostgreSQL, TypeORM, SQL, MySQL, HTML, CSS, JavaScript, C++, Python, and Pandas. I love creating innovative solutions and exploring new technologies. Welcome to my GitHub profile!
 
 ## Tech Stack
+![My Skills](https://skillicons.dev/icons?i=python,mongodb,react,postgres,mysql,js,html,css,express,md,nodejs)
 - Programming Languages: C++, Python
 - Web Technologies: HTML, CSS, JavaScript (Node.js)
 - Frameworks: MERN (MongoDB, Express.js, React.js, Node.js)
 - Databases: PostgreSQL, MySQL
-- Data Analysis: Pandas
+- Data Analysis: Pandas, Matplotlib
 - ORM: TypeORM
 
-## Social Profiles
-Connect with me on various platforms:
-- LinkedIn: [Rishav Gandhi](https://www.linkedin.com/in/rishavgandhi/)
-- GitHub: [rishavgandhi24](https://github.com/rishavgandhi24)
-- Instagram: [@rishavgandhi24](https://www.instagram.com/rishavgandhi24/)
+### 🌐 Socials:
+ [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rishav-gandhi-998a74211/)
+ [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/rishavgn)
+ [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/___rishav._)
 
 ## Tools and Software
-I use a variety of tools and software to develop and design software solutions:
+![My Skills](https://skillicons.dev/icons?i=git,ai,postman,aws,vscode)
+- I use a variety of tools and software to develop and design software solutions:
 - IDE: Visual Studio Code
 - Notebook: Jupyter Notebook
 - Design: Adobe Illustrator
 - Version Control: GitHub
+- Visualization Tools: PowerBi
+- Api Tool: Postman
 - Cloud Services: AWS (Amazon Web Services)
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishavgandhi24&show_icons=true&theme=dark)
+### 📊 GitHub Stats:
+<div align="center" width=100%>
 
-## Featured Projects
-Here are some of my notable projects hosted on GitHub:
 
-1. [Project A](https://github.com/rishavgandhi24/project-a)
-   - Description: A web application built using the MERN stack for managing tasks and deadlines.
-   - Technologies: MongoDB, Express.js, React.js, Node.js
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishavgn&layout=compact)](https://github.com/rishavgn/github-readme-stats)
 
-2. [Project B](https://github.com/rishavgandhi24/project-b)
-   - Description: A data analysis project showcasing the use of Pandas library for processing and visualizing data.
-   - Technologies: Python, Pandas, Jupyter Notebook
+</div>
 
-3. [Project C](https://github.com/rishavgandhi24/project-c)
-   - Description: A C++ application implementing various algorithms and data structures.
-   - Technologies: C++, Visual Studio Code
+ <div align = "center">
+ 
+**Visitors Count** 
 
-Feel free to explore these projects and provide feedback!
+![VisitorCount](https://profile-counter.glitch.me/{rishavgn}/count.svg) </div>
 
 ## Contact Me
 If you have any queries or collaboration opportunities, feel free to reach out to me via email at [rishav@example.com](mailto:rishav@example.com).
